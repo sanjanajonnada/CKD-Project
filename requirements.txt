@@ -1,0 +1,8 @@
+streamlit  # Web framework for building dashboards
+pandas     # Data analysis and manipulation library
+numpy      # Numerical computing library
+matplotlib  # Data visualization library (optional)
+seaborn     # Statistical data visualization library (optional)
+streamlit-option-menu
+joblib
+scikit-learn  # Assuming this is required for your ML model
